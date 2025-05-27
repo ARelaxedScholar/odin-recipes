@@ -34,10 +34,10 @@ By completing this project, I will have demonstrated the ability to:
 
 ## How to View
 
-This website is published using GitHub Pages and can be accessed at [ARelaxedScholar.github.io/odin-recipes](ARelaxedScholar.github.io/odin-recipes).
+This website is published using GitHub Pages and can be accessed at [https://www.arelaxedscholar.github.io/odin-recipes](arelaxedscholar.github.io/odin-recipes).
 
 Alternatively, you can clone this repository to your local machine and open the `index.html` file in your web browser.
 
 ```bash
-git clone git@github.com:your-username/odin-recipes.git
+git clone git@github.com:ARelaxedScholar/odin-recipes.git
 cd odin-recipes
